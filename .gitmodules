@@ -1,0 +1,3 @@
+[submodule "client/EtwLiveLog"]
+	path = client/EtwLiveLog
+	url = https://github.com/mrcslws/EtwLiveLog.git
